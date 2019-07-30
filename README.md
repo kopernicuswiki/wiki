@@ -3,7 +3,7 @@ The current targeted version of Kopernicus is 1.7.3-1.
 
 # Contributing
 It is preferred that all contributions be done via a text editor and a git client, as opposed to authoring the changes on GitHub.
-This allows for consistent page formatting. If you wish to be able to test out changes before uploading, you must install Jekyll and its dependencies. Follow the page format listed below if you wish to contribute to a file or create a new file. NOTE: New RELATIVE links should be made in the form \[Text to be linked\]\(\{\{ "relative link" \| relative_url \}\}\)
+This allows for consistent page formatting. If you wish to be able to test out changes before uploading, you must install Jekyll and its dependencies. Look at the "Submitting Contributions" section below if you wish to contribute to a file or create a new file.
 
 ## Installing Jekyll
 Head to [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/) and scroll to the bottom. 
@@ -14,7 +14,8 @@ You may use whatever Git GUI/client you wish, however they all (to my knowledge)
 
 Clone the wiki's contributing repository to your machine. The URL for the contributing repository is https://github.com/kopernicuswiki/wiki.git
 
-## Page Format
+## Submitting Contributions
+### Page Format
 As discussed in [issue #4](https://github.com/kopernicuswiki/kopernicuswiki.github.io/issues/4), the format for every page in the Wiki should be as follows:
 
 Description of the item
