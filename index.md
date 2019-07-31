@@ -28,8 +28,8 @@ subtitle: A mod to modify the planetary system used by KSP
   + [ScaledVersion subnode]({{ site.baseurl }}{% link main/ScaledVersion.md %})
     - Material subnode
   + [Rings subnode]({{ site.baseurl }}{% link main/Rings.md %})
-  + Atmosphere subnode
-    - AtmosphereFromGround subnode
+  + [Atmosphere subnode]({{ site.baseurl }}{% link main/Atmosphere.md %})
+    - [AtmosphereFromGround subnode]({{ site.baseurl }}{% link main/Atmosphere/AtmosphereFromGround.md %})
   + PQS subnode
     - [PQSMod subnodes]({{ site.baseurl }}{% link PQSMods/PQSMods.md %})
   + Ocean subnode
