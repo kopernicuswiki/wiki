@@ -27,6 +27,7 @@ subtitle: A mod to modify the planetary system used by KSP
   + [Orbit subnode]({{ site.baseurl }}{% link main/Orbit.md %})
   + [ScaledVersion subnode]({{ site.baseurl }}{% link main/ScaledVersion.md %})
     - [Material subnode]({{ site.baseurl }}{% link main/ScaledVersion/Material.md %})
+    - [OnDemand subnode]({{ site.baseurl }}{% link main/ScaledVersion/OnDemand.md %})
   + [Rings subnode]({{ site.baseurl }}{% link main/Rings.md %})
   + [Atmosphere subnode]({{ site.baseurl }}{% link main/Atmosphere.md %})
     - [AtmosphereFromGround subnode]({{ site.baseurl }}{% link main/Atmosphere/AtmosphereFromGround.md %})
