@@ -76,6 +76,7 @@ Atmosphere
 ```
 
 |Property|Format|Description|
+|--------|------|-----------|
 |enabled|Boolean|Whether the body has an atmosphere.|
 |oxygen|Boolean|Whether the atmosphere contains oxygen. Used for whether jet engines should work in the atmosphere.|
 |staticDensityASL|Double|Atmospheric density at sea level. Used to calculate the parameters of the atmosphere if no curves are used.|
