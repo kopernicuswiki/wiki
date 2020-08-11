@@ -16,7 +16,7 @@ subtitle: A mod to modify the planetary system used by KSP
 ## Prerequisites
 * [What are ConfigNodes?]({{ site.baseurl }}{% link main/ConfigNodes.md %})
 * [A Beginner's Guide to Kopernicus: The Basics](https://forum.kerbalspaceprogram.com/index.php?/topic/129540-a-beginners-guide-to-kopernicus-the-basics/)
-* [Data Types]({{ site.baseurl }}{% link main/datatypes.md %})
+* [Data Types]({{ site.baseurl }}{% link main/DataTypes.md %})
 
 ## External Resources
 * [Kopernicus Asteroids - OhioBob](https://www.dropbox.com/s/lag8opde3zimjqc/KopernicusAsteroids.pdf?dl=0)
@@ -29,11 +29,11 @@ subtitle: A mod to modify the planetary system used by KSP
   + [Template subnode]({{ site.baseurl }}{% link main/Template.md %})
   + [Properties subnode]({{ site.baseurl }}{% link main/Properties.md %})
     - [ScienceValues subnode]({{ site.baseurl }}{% link main/Properties/ScienceValues.md %})
-    - [Biomes subnode]({{ site.baseurl }}{% link main/Properties/Biome.md %}) **NON-STARS ONLY**
+    - [Biomes subnode]({{ site.baseurl }}{% link main/Properties/Biome.md %})
   + [Orbit subnode]({{ site.baseurl }}{% link main/Orbit.md %})
   + [ScaledVersion subnode]({{ site.baseurl }}{% link main/ScaledVersion.md %})
     - [Material subnode]({{ site.baseurl }}{% link main/ScaledVersion/Material.md %})
-    - [OnDemand subnode]({{ site.baseurl }}{% link main/ScaledVersion/OnDemand.md %}) **NON-STARS ONLY**
+    - [OnDemand subnode]({{ site.baseurl }}{% link main/ScaledVersion/OnDemand.md %})
     - [Light subnode]({{ site.baseurl }}{% link main/ScaledVersion/Light.md %}) **STARS ONLY**
     - [Coronas subnode]({{ site.baseurl }}{% link main/ScaledVersion/Corona.md %}) **STARS ONLY**
   + [Rings subnode]({{ site.baseurl }}{% link main/Rings.md %})
@@ -49,7 +49,7 @@ subtitle: A mod to modify the planetary system used by KSP
   
   ***WARNING - The Particles subnode has been removed in Kopernicus 1.8.1-1, with no replacement. Only use this node if your pack is restricted to KSP 1.7.3 or earlier.***
   + [~~Particles subnode~~]({{ site.baseurl }}{% link main/Particles.md %})
-  
+
 ## KopernicusExpansion
 **WARNING: These pages are not intended for beginners, and a basic level of experience is assumed.**
 * [Comet Tails]({{ site.baseurl }}{% link kex/CometTails.md %})
