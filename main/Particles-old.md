@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Particles
+title: Particles (Pre 1.8)
 subtitle: "You would not believe your eyes, if ten million fireflies..."
 ---
 
-### [WARNING - The Particles subnode has been removed in Kopernicus 1.8.1-1, with no replacement. Only use this node if your pack is restricted to KSP 1.7.3 or earlier.]
+### WARNING - The Particles subnode has been removed in Kopernicus 1.8.1-1, but it has been re-added in versions after 1.8.1. Only use this node if your pack does not support 1.8.1.
+#### This page describes the *Pre-1.8 version*. The *Post-1.8 version* is [here]({{ site.baseurl }}{% link main/Particles.md %}).
 
 The `Particles { }` wrapper node is used to add particles to bodies. You can define several different "species" of particles by using multiple `Value { }` subnodes. NOTE:  Do not use this with a rapidly rotating body.  Doing so will yield unintended results that will be easily made apparent after a quick timewarp.
 
