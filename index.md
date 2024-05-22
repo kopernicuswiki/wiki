@@ -23,6 +23,9 @@ title: Kopernicus Wiki
 * [Planetary Texturing Guide Repository](https://forum.kerbalspaceprogram.com/index.php?/topic/165285-planetary-texturing-guide-repository/)
 * [List of BUILTIN Textures for 1.8](https://github.com/GER-Space/Kerbal-Konstructs/wiki/Builtin-Textures-for-KSP-1.8)
 
+## Helpful Tips!
+* [Ocean Heightmap Offsets]({% link content/PQSMods/VertexHeightMap.md %}#Notes on Heightmaps)
+
 ## Syntax for Celestial Bodies
 * [Body node]({{ site.baseurl }}{% link content/Body.md %})
   + [Template subnode]({{ site.baseurl }}{% link content/Template.md %})

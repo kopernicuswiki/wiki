@@ -5,7 +5,7 @@ title: VertexHeightMap
 
 The `VertexHeightMap` PQSMod is a mod that *adds* a given height map to the terrain. This means that height mods are additive, i.e. heightmaps don't set a fixed height.
 
-**Notes on Heightmaps**
+## Notes on Heightmaps
 A common desire for planets with oceans is to set the ocean to a certain height relative to the terrain to make spots like shorelines be in the correct places. This is simple to do in 2 main steps:
 
 1. Make sure your heghtmap is normalized (darkest value is 0 and highest is 255).
