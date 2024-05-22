@@ -26,7 +26,7 @@ title: Kopernicus Wiki
 ## Helpful Tips!
 * [Ocean Heightmap Offsets]({% link content/PQSMods/VertexHeightMap.md %}#Notes on Heightmaps)
 
-<a href="content/PQSMods/VertexHeightMap.md#Notes on Heightmaps">clicky 2!</a>
+<a href="content/PQSMods/VertexHeightMap.md#Notes-on-Heightmaps">clicky 2!</a>
 
 ## Syntax for Celestial Bodies
 * [Body node]({{ site.baseurl }}{% link content/Body.md %})
